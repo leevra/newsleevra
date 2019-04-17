@@ -6,7 +6,7 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts limit:7 %}
+    {% for post in site.posts limit}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
