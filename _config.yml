@@ -14,7 +14,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://news.leevra.com" # the base hostname & protocol for your site
 
 social_sharing: true
-github_username:  jekyll
+facebook_app_id: 342124209774498
+github_username:  
 google_analytic_id:
 disqus_name:
 
