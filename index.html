@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <div class="home">
 
   <ul class="post-list">
@@ -14,12 +13,14 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
 
+        <p>
+          {{ post.excerpt }}
+        </p>
       </li>
     {% endfor %}
-	
   </ul>
 
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-{% include pagination.html %}
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  {% include pagination.html %}
 
 </div>
