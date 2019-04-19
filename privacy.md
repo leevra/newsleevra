@@ -228,7 +228,6 @@ permalink: /privacy
 <br>- 성명: 이승주
 <br>- 소속: 온라인사업부
 <br>- 이메일: help@leeseungju.com
-<br>- 고객센터: 010-9988-9934
 <br>
 <br>
 <br>4. 전화상담은 월~금요일 오전 10:00 ~ 오후 06:00에만 가능합니다. (주말, 공휴일 휴무)
@@ -240,18 +239,6 @@ permalink: /privacy
 <br>개인정보침해신고센터
 <br>대검찰청 인터넷범죄수사센터
 <br>경찰청 사이버테러대응센터
-<br>
-<br>
-<br>118
-<br>118@kisa.or.kr
-<br>
-<br>
-<br>02-3480-3600
-<br>http://icic.sppo.go.kr/
-<br>
-<br>
-<br>02-392-0330 
-<br>http://ctrc.go.kr/
 <br>
 <br>
 <br>제 15조 (개인정보보호책임자 및 담당자)
