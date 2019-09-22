@@ -11,7 +11,7 @@ email: help@leevra.com
 description: 바른 정보 창고 > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://news.leevra.com" # the base hostname & protocol for your site
+url: "https://news.leeseungju.com" # the base hostname & protocol for your site
 
 social_sharing: true
 facebook_app_id: 342124209774498
